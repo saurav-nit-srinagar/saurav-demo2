@@ -2,5 +2,5 @@
 this is my second git repository
 <br>
 college-Nit Srinagar
-college-Nit Sxr
+Branch-computer science
 
